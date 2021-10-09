@@ -1,0 +1,5 @@
+C:\VTCA\asm.exe
+C:\VTCA\asm.dll
+C:\VTCA\asm.deps.json
+C:\VTCA\asm.runtimeconfig.json
+C:\VTCA\asm.pdb

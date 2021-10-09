@@ -1,0 +1,16 @@
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.exe
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.deps.json
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.runtimeconfig.json
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.runtimeconfig.dev.json
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.dll
+C:\VTCA\ASM\asm\bin\Realease\net5.0\ref\asm.dll
+C:\VTCA\ASM\asm\bin\Realease\net5.0\asm.pdb
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.csproj.AssemblyReference.cache
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.AssemblyInfoInputs.cache
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.AssemblyInfo.cs
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.csproj.CoreCompileInputs.cache
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.dll
+C:\VTCA\ASM\asm\obj\Realease\net5.0\ref\asm.dll
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.pdb
+C:\VTCA\ASM\asm\obj\Realease\net5.0\asm.genruntimeconfig.cache
